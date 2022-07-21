@@ -9,25 +9,25 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+      src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
       alt="HTML"
       width="40"
       height="40"
     /> 
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
       alt="CSS"
       width="40"
       height="40"
     />
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg"
+      src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
       alt="JavaScript"
       width="40"
       height="40"
     />
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+      src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
       alt="React"
       width="40"
       height="40"
