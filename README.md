@@ -32,6 +32,18 @@
       width="40"
       height="40"
     />
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/redux.svg"
+      alt="Redux"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"
+      alt="SASS"
+      width="40"
+      height="40"
+    />
 </p>
 
 <h3 align="left">Contact me:</h3>
