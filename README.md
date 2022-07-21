@@ -3,9 +3,7 @@
 <h3> Frontend Developer </h3>
 
   
-- 🎓 I graduated from Anadolu Universitesi. 
 - 🔭 I’m currently learning & developing **React** and **TypeScript**.
-- 💬 You can ask me about **anything**.
 - 📫 Contact me **mehmetasil96@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
