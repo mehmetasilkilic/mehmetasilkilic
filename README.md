@@ -27,6 +27,18 @@
       height="40"
     />
     <img
+      src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
+      alt="TypeScript"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"
+      alt="React Native"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
       alt="React"
       width="40"
