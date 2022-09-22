@@ -74,4 +74,4 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetasilkilic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mehmetasilkilic" /> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mehmetasilkilic&show_icons=true&locale=en&theme=tokyonight" alt="mehmetasilkilic" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mehmetasilkilic&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="mehmetasilkilic" /> </p>
