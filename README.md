@@ -1,9 +1,7 @@
 
 <h1> Hello! 👋 I am Mehmet Asil Kılıç </h1> 
-<h3> Frontend Developer </h3>
+<h3> Frontend/Mobile Developer </h3>
 
-  
-- 🔭 I’m currently learning & developing **TypeScript** and **React Native**.
 - 📫 Contact me **mehmetasil96@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
