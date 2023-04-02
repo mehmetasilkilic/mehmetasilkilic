@@ -56,18 +56,6 @@
     />
 </p>
 
-<h3 align="left">Contact me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehmet-asil-k%C4%B1l%C4%B1%C3%A7-b80b75146/" target="blank"
-    ><img
-      align="center"
-      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
-      alt="mehmet-asil-kilic"
-      height="35"
-      width="35"
-  /></a>
-</p>
-
 <h1></h1> 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetasilkilic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mehmetasilkilic" /> </p>
